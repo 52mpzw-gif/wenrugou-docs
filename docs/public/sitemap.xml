@@ -186,4 +186,40 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://52mpzw-gif.github.io/wenrugou-docs/vpn/ai-tools-vpn-guide/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://52mpzw-gif.github.io/wenrugou-docs/vpn/stable-vpn-no-drop/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://52mpzw-gif.github.io/wenrugou-docs/vpn/vpn-disconnect-reasons/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://52mpzw-gif.github.io/wenrugou-docs/vpn/vpn-vs-proxy-ai/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://52mpzw-gif.github.io/wenrugou-docs/vpn/remote-work-vpn/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://52mpzw-gif.github.io/wenrugou-docs/vpn/cloudflare-selfhost-paid-free/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>

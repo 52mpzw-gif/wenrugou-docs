@@ -1,13 +1,13 @@
 ---
 title: 稳如狗加速器官方文档
-description: 稳如狗加速器使用指南，帮助 Windows 和 Android 用户稳定访问 ChatGPT、Claude、Gemini、Google、YouTube、Gmail、Google Play、外服游戏和跨境办公网站。
+description: 稳如狗加速器使用指南，帮助 Windows 和 Android 用户稳定访问 ChatGPT、Claude、Gemini、Google、YouTube、Gmail、Google Play、外服游戏和跨境办公网站，并提供 AI 工具专用 VPN、稳定不掉线 VPN、远程办公 VPN 和国内访问国外网站工具选择建议。
 ---
 
 # 稳如狗加速器：稳定访问 ChatGPT、Google、YouTube 的使用指南
 
 稳如狗加速器是一款面向 Windows 和 Android 用户的海外网络加速器，适合需要稳定访问 ChatGPT、Claude、Gemini、Perplexity、Google、YouTube、Gmail、Google Play、外服游戏、跨境办公、学术检索和海外开发者工具的用户。
 
-这个文档站主要整理稳如狗的下载安装、新手连接、节点选择、海外 AI 工具访问、常见问题和故障处理教程。如果你正在搜索“ChatGPT 打不开怎么办”“Google 打不开怎么办”“YouTube 一直转圈”“VPN 节点怎么选”“海外 AI 工具访问慢”“Windows 加速器被杀毒软件拦截”，可以从这里开始。
+这个文档站主要整理稳如狗的下载安装、新手连接、节点选择、海外 AI 工具访问、VPN 使用建议、常见问题和故障处理教程。无论是 ChatGPT 打不开、Google 无法访问、YouTube 一直转圈，还是 AI 工具连接不稳定、VPN 节点不知道怎么选、Windows 加速器被安全软件拦截，都可以从这里开始排查。
 
 常用入口：
 
@@ -66,6 +66,17 @@ description: 稳如狗加速器使用指南，帮助 Windows 和 Android 用户�
 - [使用 GitHub Copilot 应该选择哪个节点？](/ai/github-copilot)
 
 如果你还在找常用 AI 工具入口，可以查看稳如狗 AI 导航：[https://www.wenrugou.net/ai-navigation.html](https://www.wenrugou.net/ai-navigation.html)。
+
+### VPN 与 AI 网络加速指南
+
+这一部分适合需要稳定访问 AI 工具、海外网站和远程办公服务的用户。重点不是复杂配置，而是帮助普通用户理解为什么稳定 VPN 比单纯高速 VPN 更适合 ChatGPT、Claude、Gemini、Google、YouTube、GitHub 和跨境办公场景。
+
+- [AI 工具专用 VPN 怎么选？](/vpn/ai-tools-vpn-guide)：覆盖 ChatGPT、Claude、Gemini、Perplexity、Cursor、GitHub Copilot 等 AI 工具访问。
+- [稳定不掉线 VPN 推荐](/vpn/stable-vpn-no-drop)：说明稳定 VPN 和高速 VPN 哪个更适合 AI 工具、Google、YouTube 和远程办公。
+- [VPN 经常断线是什么原因？](/vpn/vpn-disconnect-reasons)：排查 VPN 频繁掉线、连接成功但网页打不开、AI 回答中断等问题。
+- [VPN 和代理哪个好用？](/vpn/vpn-vs-proxy-ai)：对比 VPN、代理工具、普通网络加速器在 AI 工具场景中的区别。
+- [远程办公 VPN 推荐](/vpn/remote-work-vpn)：适合跨境办公、外贸、开发者、学术检索和海外 SaaS 用户。
+- [Cloudflare 隧道、自建 VPN、商业 VPN、免费 VPN 怎么选？](/vpn/cloudflare-selfhost-paid-free)：对比 Cloudflare 隧道和 VPN、付费 VPN 和免费 VPN、自建 VPN 和商业 VPN。
 
 ### 常见问题
 
@@ -142,6 +153,18 @@ YouTube、海外直播、短视频、课程视频对带宽和连续连接要求�
 - [如何选择节点？](/usage/choose-node)
 - [为什么有时候速度会变慢？](/usage/why-speed-slow)
 - [如何提交问题反馈？](/support/feedback)
+
+### 稳定 VPN 和 AI 工具网络加速
+
+如果你正在找 AI 工具专用 VPN、稳定不掉线 VPN、国内访问国外网站工具或远程办公 VPN，建议优先关注长期稳定、少掉线、少配置，而不是只看瞬时测速。ChatGPT、Claude、Gemini、Perplexity、Cursor、GitHub Copilot、Google、YouTube、Gmail、GitHub 等服务都更依赖稳定连接。
+
+推荐阅读：
+
+- [AI 工具专用 VPN 怎么选？](/vpn/ai-tools-vpn-guide)
+- [稳定不掉线 VPN 推荐](/vpn/stable-vpn-no-drop)
+- [VPN 经常断线是什么原因？](/vpn/vpn-disconnect-reasons)
+- [VPN 和代理哪个好用？](/vpn/vpn-vs-proxy-ai)
+- [远程办公 VPN 推荐](/vpn/remote-work-vpn)
 
 ## 你可能正在找的问题
 

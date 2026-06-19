@@ -7,11 +7,12 @@ export default defineConfig({
 
   themeConfig: {
     nav: [
-          { text: '首页', link: '/' },
-          { text: '新手入门', link: '/guide/windows-install' },
-          { text: '使用建议', link: '/usage/choose-node' },
-          { text: 'AI工具', link: '/ai/chatgpt' },
-          { text: '常见问题', link: '/faq/is-safe' }
+      { text: '首页', link: '/' },
+      { text: '新手入门', link: '/guide/windows-install' },
+      { text: '使用建议', link: '/usage/choose-node' },
+      { text: 'AI工具', link: '/ai/chatgpt' },
+      { text: 'VPN指南', link: '/vpn/ai-tools-vpn-guide' },
+      { text: '常见问题', link: '/faq/is-safe' }
     ],
 
     sidebar: [
@@ -45,6 +46,17 @@ export default defineConfig({
           { text: '如何稳定访问 Perplexity？', link: '/ai/perplexity' },
           { text: '使用 Cursor 应该选择哪个节点？', link: '/ai/cursor' },
           { text: '使用 GitHub Copilot 应该选择哪个节点？', link: '/ai/github-copilot' }
+        ]
+      },
+      {
+        text: 'VPN 与 AI 网络加速指南',
+        items: [
+          { text: 'AI 工具专用 VPN 怎么选？', link: '/vpn/ai-tools-vpn-guide' },
+          { text: '稳定不掉线 VPN 推荐', link: '/vpn/stable-vpn-no-drop' },
+          { text: 'VPN 经常断线是什么原因？', link: '/vpn/vpn-disconnect-reasons' },
+          { text: 'VPN 和代理哪个好用？', link: '/vpn/vpn-vs-proxy-ai' },
+          { text: '远程办公 VPN 推荐', link: '/vpn/remote-work-vpn' },
+          { text: 'Cloudflare、自建、付费免费 VPN 对比', link: '/vpn/cloudflare-selfhost-paid-free' }
         ]
       },
       {
