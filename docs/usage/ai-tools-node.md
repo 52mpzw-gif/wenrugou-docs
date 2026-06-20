@@ -9,7 +9,7 @@ description: ChatGPT、Claude、Gemini、Perplexity、Cursor、GitHub Copilot �
 
 对于大多数用户来说，答案是：优先使用稳如狗的智能优选节点。AI 工具访问不只是看下载速度，更看重页面加载、账号登录、模型请求、回答生成、文件上传和长时间连接是否稳定。
 
-如果你还在找好用的海外 AI 工具，可以先打开稳如狗 AI 导航 [https://www.wenrugou.net/ai-navigation.html](https://www.wenrugou.net/ai-navigation.html)，里面整理了通用 AI、AI 编程、AI 图片、AI 视频、办公效率、外贸出海等常用工具入口。
+如果你还在找好用的海外 AI 工具，可以先打开稳如狗 AI 导航 [https://www.wenrugou.net/ai-navigation.html](https://www.wenrugou.net/ai-navigation.html)，里面整理了通用 AI、AI 编程、AI 图片、AI 视频、办公效率、外贸出海等常用工具入口。需要更完整的使用说明时，也可以查看稳如狗 GitBook 使用手册：[https://wenrugou.gitbook.io/accelerator](https://wenrugou.gitbook.io/accelerator)。
 
 ## 为什么 AI 工具优先看稳定性？
 

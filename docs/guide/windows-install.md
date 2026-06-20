@@ -9,7 +9,7 @@ description: 稳如狗 Windows 版下载安装教程，包含官方下载、杀�
 
 如果你正在搜索“稳如狗 Windows 下载”“稳如狗安装教程”“Windows 怎么访问 ChatGPT”“YouTube 加速器 Windows 版”“VPN 安装包被杀毒软件拦截怎么办”，可以按本文完成下载安装。
 
-建议始终从稳如狗官网下载安装包：[https://www.wenrugou.net](https://www.wenrugou.net)。Windows 安装过程中如果遇到杀毒软件误报、安装目录信任区、WebView2 等问题，也可以查看官方 Windows 安装说明：[https://www.wenrugou.net/windows-install-guide](https://www.wenrugou.net/windows-install-guide)。
+建议始终从稳如狗官网下载安装包：[https://www.wenrugou.net](https://www.wenrugou.net)。Windows 安装过程中如果遇到杀毒软件误报、安装目录信任区、WebView2 等问题，也可以查看官方 Windows 安装说明：[https://www.wenrugou.net/windows-install-guide](https://www.wenrugou.net/windows-install-guide)。如果想阅读更完整的安装和使用手册，可以查看稳如狗 GitBook 文档：[https://wenrugou.gitbook.io/accelerator](https://wenrugou.gitbook.io/accelerator)。
 
 ## 安装前先了解一个重点
 

@@ -26,6 +26,8 @@ description: 稳如狗新用户首次连接教程，包含打开客户端、查�
 - [Windows 下载安装教程](/guide/windows-install)
 - [Android 下载安装教程](/guide/android-install)
 
+如果希望按完整手册一步步了解安装、连接和常见问题，也可以查看稳如狗 GitBook 使用手册：[https://wenrugou.gitbook.io/accelerator](https://wenrugou.gitbook.io/accelerator)。
+
 ## 第一步：打开稳如狗客户端
 
 Windows 用户可以通过：

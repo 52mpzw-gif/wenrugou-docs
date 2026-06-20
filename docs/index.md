@@ -15,6 +15,7 @@ description: 稳如狗加速器使用指南，帮助 Windows 和 Android 用户�
 - 稳如狗帮助中心：[https://www.wenrugou.net/help.html](https://www.wenrugou.net/help.html)
 - 稳如狗 AI 导航：[https://www.wenrugou.net/ai-navigation.html](https://www.wenrugou.net/ai-navigation.html)
 - Windows 安装指南：[https://www.wenrugou.net/windows-install-guide](https://www.wenrugou.net/windows-install-guide)
+- 稳如狗 GitBook 使用手册：[https://wenrugou.gitbook.io/accelerator](https://wenrugou.gitbook.io/accelerator)
 
 ## 新手快速开始
 
