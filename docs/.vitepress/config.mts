@@ -4,7 +4,7 @@ const siteUrl = 'https://52mpzw-gif.github.io'
 const siteBase = '/wenrugou-docs/'
 const siteName = '稳如狗加速器'
 const siteDescription = '稳如狗官方文档'
-const siteImage = new URL(`${siteBase}og-image.png`, siteUrl).href
+const siteImage = new URL(`${siteBase}og-image.png?v=20260624`, siteUrl).href
 
 function pageUrl(page: string) {
   const path =
