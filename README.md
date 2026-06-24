@@ -80,6 +80,14 @@
 
 ---
 
+## 🟨 Notion.so 专栏
+👉 [Network & Privacy Guide（网络与隐私指南）](https://vine-care-092.notion.site/Network-Privacy-Guide-3881c3669eb8805daa15d470462636b5)
+- [稳如狗免费网络工具：IP检测、DNS泄露检测、WebRTC泄露检测与代理订阅转换](https://vine-care-092.notion.site/IP-DNS-WebRTC-3881c3669eb88055a935e1fb249d892b)
+- [2026 跨境网络指南：从原理到选择，如何彻底解决节点延迟与掉线问题？](https://vine-care-092.notion.site/2026-3881c3669eb880f9b8e8cafefb3b5f95)
+- [稳如狗加速：不只是网络加速器，更是面向 AI 工具用户的工作平台](https://vine-care-092.notion.site/AI-3881c3669eb880f9a092c69d49bb6d72)
+
+---
+
 # 🚀 当前项目方向
 
 正在进行的系统与产品方向：
