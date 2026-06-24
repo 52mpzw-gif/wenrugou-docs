@@ -122,9 +122,11 @@
 - 🌐 官网：https://www.wenrugou.net
 - 📖 文档：https://52mpzw-gif.github.io/wenrugou-docs/
 - 🧾 帮助中心：https://www.wenrugou.net/help.html
+- 🧾 网络工具：https://www.wenrugou.net/tools
+- 🧾 AI工具导航：https://www.wenrugou.net/ai-navigation.html
 - 🧠 HashNode：https://wenrugou.hashnode.dev/
 - ✍️ Medium：https://medium.com/@wenrugou
-- 🧠 HashNode：https://dev.to/wenrugou
+- 🧠 Dev.to：https://dev.to/wenrugou
 
 ---
 
