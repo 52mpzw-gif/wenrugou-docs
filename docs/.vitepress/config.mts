@@ -4,6 +4,7 @@ const siteUrl = 'https://52mpzw-gif.github.io'
 const siteBase = '/wenrugou-docs/'
 const siteName = '稳如狗加速器'
 const siteDescription = '稳如狗官方文档'
+const siteImage = new URL(`${siteBase}og-image.png`, siteUrl).href
 
 function pageUrl(page: string) {
   const path =
@@ -33,9 +34,15 @@ export default defineConfig({
       ['meta', { property: 'og:title', content: pageTitle }],
       ['meta', { property: 'og:description', content: pageDescription }],
       ['meta', { property: 'og:url', content: url }],
-      ['meta', { name: 'twitter:card', content: 'summary' }],
+      ['meta', { property: 'og:image', content: siteImage }],
+      ['meta', { property: 'og:image:width', content: '1200' }],
+      ['meta', { property: 'og:image:height', content: '630' }],
+      ['meta', { property: 'og:image:alt', content: siteName }],
+      ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
       ['meta', { name: 'twitter:title', content: pageTitle }],
-      ['meta', { name: 'twitter:description', content: pageDescription }]
+      ['meta', { name: 'twitter:description', content: pageDescription }],
+      ['meta', { name: 'twitter:image', content: siteImage }],
+      ['meta', { name: 'twitter:image:alt', content: siteName }]
     ]
   },
 
