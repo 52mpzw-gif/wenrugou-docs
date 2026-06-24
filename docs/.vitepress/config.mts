@@ -1,9 +1,43 @@
 import { defineConfig } from 'vitepress'
 
+const siteUrl = 'https://52mpzw-gif.github.io'
+const siteBase = '/wenrugou-docs/'
+const siteName = '稳如狗加速器'
+const siteDescription = '稳如狗官方文档'
+
+function pageUrl(page: string) {
+  const path =
+    page === 'index.md'
+      ? siteBase
+      : `${siteBase}${page.replace(/(^|\/)index\.md$/, '').replace(/\.md$/, '/')}`
+
+  return new URL(path, siteUrl).href
+}
+
 export default defineConfig({
-  title: '稳如狗加速器',
-  description: '稳如狗官方文档',
-  base: '/wenrugou-docs/',
+  title: siteName,
+  description: siteDescription,
+  base: siteBase,
+
+  transformHead({ page, pageData, title, description }) {
+    const url = pageUrl(page)
+    const pageTitle = pageData.frontmatter.title || title || siteName
+    const pageDescription =
+      pageData.frontmatter.description || description || siteDescription
+
+    return [
+      ['link', { rel: 'canonical', href: url }],
+      ['meta', { property: 'og:type', content: page === 'index.md' ? 'website' : 'article' }],
+      ['meta', { property: 'og:site_name', content: siteName }],
+      ['meta', { property: 'og:locale', content: 'zh_CN' }],
+      ['meta', { property: 'og:title', content: pageTitle }],
+      ['meta', { property: 'og:description', content: pageDescription }],
+      ['meta', { property: 'og:url', content: url }],
+      ['meta', { name: 'twitter:card', content: 'summary' }],
+      ['meta', { name: 'twitter:title', content: pageTitle }],
+      ['meta', { name: 'twitter:description', content: pageDescription }]
+    ]
+  },
 
   themeConfig: {
     nav: [
